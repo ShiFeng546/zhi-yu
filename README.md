@@ -3,7 +3,7 @@
 本地记账应用。账单、账户、预算、日历、资产和理财放在同一套结构里，数据默认只存在本机。
 
 - 包名：`com.shifeng.zhiyu`
-- 当前版本：`1.0.9`（versionCode 30）
+- 当前版本：`1.0.10`（versionCode 31）
 - 正式包：见 [Releases](https://github.com/ShiFeng546/zhi-yu/releases)
 
 ## 下载
@@ -11,11 +11,11 @@
 安装包挂在 GitHub Release，不进 Git 仓库。
 
 - 最新版：<https://github.com/ShiFeng546/zhi-yu/releases/latest>
-- 1.0.9：<https://github.com/ShiFeng546/zhi-yu/releases/download/v1.0.9/zhiyu-1.0.9-release.apk>
-- 安装包 SHA-256：`7ff3d37d7032030d57b1e822ac1c89b3896208c9738ddbfcaddc90e1fef69ff1`
+- 1.0.10：<https://github.com/ShiFeng546/zhi-yu/releases/download/v1.0.10/zhiyu-1.0.10-release.apk>
+- 安装包 SHA-256：`8f1ceca2c51bde422d294660e2d4d03a7d6db8fd0687368be1695bd389bbf175`
 - 版本清单：仓库根目录的 `update.json`，也可读 `https://api.github.com/repos/ShiFeng546/zhi-yu/releases/latest`
 
-真机如果已经装过 debug 签名的同名包，需要先卸载再装正式包。两套签名不能互相覆盖。已安装 1.0.0 ~ 1.0.8 正式包可直接覆盖。
+真机如果已经装过 debug 签名的同名包，需要先卸载再装正式包。两套签名不能互相覆盖。已安装 1.0.0 ~ 1.0.9 正式包可直接覆盖。
 
 ## 本地编译
 
