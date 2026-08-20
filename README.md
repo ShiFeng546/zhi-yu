@@ -8,10 +8,7 @@
 
 ## 下载
 
-安装包挂在 GitHub Release，不进 Git 仓库。
-
 - 最新版：<https://github.com/ShiFeng546/zhi-yu/releases/latest>
-- 1.0.11：<https://github.com/ShiFeng546/zhi-yu/releases/download/v1.0.11/zhiyu-1.0.11-release.apk>
 - 安装包 SHA-256：`6ccbfcc9c2d65fd6473896587bfe52b58a8b913ace323684c96c72bd8bd69d73`
 - 版本清单：仓库根目录的 `update.json`，也可读 `https://api.github.com/repos/ShiFeng546/zhi-yu/releases/latest`
 
