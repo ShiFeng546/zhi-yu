@@ -1,11 +1,11 @@
 {
   "packageName": "com.shifeng.zhiyu",
-  "versionName": "1.0.32",
-  "versionCode": 53,
-  "tag": "v1.0.32",
-  "apkName": "zhiyu-1.0.32-release.apk",
-  "apkUrl": "https://github.com/ShiFeng546/zhi-yu/releases/download/v1.0.32/zhiyu-1.0.32-release.apk",
+  "versionName": "1.0.33",
+  "versionCode": 54,
+  "tag": "v1.0.33",
+  "apkName": "zhiyu-1.0.33-release.apk",
+  "apkUrl": "https://github.com/ShiFeng546/zhi-yu/releases/download/v1.0.33/zhiyu-1.0.33-release.apk",
   "latestApi": "https://api.github.com/repos/ShiFeng546/zhi-yu/releases/latest",
-  "sha256": "748d404609613d2c6216c429558fe2cf3ca6a9c97795ff3500b416d60f4a8b23",
+  "sha256": "5a2365d3cb19d3971424b71271cb9854b8cb5b37cad46ebf0983506a954e2f8c",
   "minSdk": 26
 }
